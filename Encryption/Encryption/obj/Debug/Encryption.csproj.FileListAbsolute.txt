@@ -1,0 +1,9 @@
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.Form1.resources
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+c:\users\jumono\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb
