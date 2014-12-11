@@ -1,5 +1,0 @@
-E:\Dropbox\Projects\QuickEncrypt\Encryption\EncryptLib\bin\Debug\EncryptLib.dll
-E:\Dropbox\Projects\QuickEncrypt\Encryption\EncryptLib\bin\Debug\EncryptLib.pdb
-E:\Dropbox\Projects\QuickEncrypt\Encryption\EncryptLib\obj\Debug\EncryptLib.csprojResolveAssemblyReference.cache
-E:\Dropbox\Projects\QuickEncrypt\Encryption\EncryptLib\obj\Debug\EncryptLib.dll
-E:\Dropbox\Projects\QuickEncrypt\Encryption\EncryptLib\obj\Debug\EncryptLib.pdb
