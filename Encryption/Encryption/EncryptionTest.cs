@@ -44,5 +44,11 @@ namespace Encryption
 
             Assert.AreEqual(File.ReadAllText(fileName), contents, "Decrypted content should be original!");
         }
+
+        [TestFixtureTearDown]
+        public void Cleanup()
+        {
+            File.Delete("testfile");
+        }
     }
 }
